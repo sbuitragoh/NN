@@ -1,0 +1,1 @@
+This is an exercise for ***type hinting*** using a simple implementation from scratch of a simple neural network using an short sample of the iris dataset.
